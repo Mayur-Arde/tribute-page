@@ -230,7 +230,7 @@ img + p {
     background-repeat:no-repeat;
     background-size: 25px;
     background-position: center;
-    z-index: 26;
+    z-index: 30;
   }
   .nav-bar.active{
     position: fixed;
