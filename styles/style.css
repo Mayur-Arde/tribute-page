@@ -139,7 +139,7 @@ img + p {
 }
 
 .footer a:hover , .more-info a:hover {
-  background-color: khaki;
+  background-color: #f6ff41;
 }
 
 .footer p , .more-info p {
