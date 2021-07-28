@@ -157,7 +157,7 @@ img + p {
   }
    #main{
      padding: 25px 25px 10px;
-     margin: 0px;
+     margin: 5px;
    }
 
    #about {
@@ -184,8 +184,8 @@ img + p {
   }
 
   #main{
-    padding: 20px 20px 10px;
-    margin: 0px;
+    padding: 15px 15px 10px;
+    margin: 3px;
     font-size: 14px;
   }
 
@@ -226,6 +226,8 @@ img + p {
     transition: 0.2s;
   }
   .toggle.active{
+    width: 20px;
+    height: 15px;
     background: url(https://img.icons8.com/material/48/000000/multiply--v1.png);
     background-repeat:no-repeat;
     background-size: 25px;
@@ -242,13 +244,13 @@ img + p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #f6ff41bd;
+    background-color: #fcffc9bd;
     z-index: 20;
     transition: 0.5s;
   }
 
   .nav-bar.active ul {
-      margin: 0px
+      margin: 5px 0px;
     }
   .nav-bar.active a {
     margin: 0px;
@@ -260,6 +262,7 @@ img + p {
 
   section #main {
     padding: 5px 5px 10px;
+    margin: 1px;
   }
 
   #top h1 a {
