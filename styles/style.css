@@ -244,7 +244,7 @@ img + p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: #fcffc9bd;
+    background-color: #18190100;
     z-index: 20;
     transition: 0.5s;
   }
